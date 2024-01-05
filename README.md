@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @RahulBharda16
-- 👀 I’m interested in 
-- 🌱 I’m currently learning ...
+- 👀 I am a software engineer. I love programming, reading, writing and speaking.
+     As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world.
+- 🌱 I’m currently learning .Net 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
